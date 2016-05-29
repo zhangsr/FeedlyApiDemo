@@ -1,0 +1,3 @@
+[submodule "feedly_api_wrapper"]
+	path = feedly_api_wrapper
+	url = git@github.com:zhangsr/FeedlyApiWrapper.git
