@@ -1,0 +1,17 @@
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+gradle.properties
+build/
+gradle/
+gradlew
+gradlew.bat
+*~
+*.swp
+doc/
+android.keystore
+ShareSDK.xml
